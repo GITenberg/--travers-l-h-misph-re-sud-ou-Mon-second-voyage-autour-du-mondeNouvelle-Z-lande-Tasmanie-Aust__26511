@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '32056'
     url: http://www.gutenberg.org/2009/agents/32056
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26511#--travers-l-h-misph-re-sud-ou-Mon-second-voyage-autour-du-mondeNouvelle-Z-lande-Tasmanie-Aust_
 gutenberg_bookshelf: FR Voyages et pays
 gutenberg_issued: '2008-09-02'
 gutenberg_type: Text
